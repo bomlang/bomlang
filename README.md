@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 # Frontend Developer
 
 안녕하세요, 프론트엔드 개발을 공부하고 있는 개발자 지망생입니다.<br/>
@@ -5,6 +7,8 @@
 
 
 ## 기술 스택
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 프론트엔드 개발을 중점적으로 공부하고 있으며, 다음과 같은 기술들을 사용하고 있습니다:
 
@@ -57,3 +61,5 @@ NeoPle API에서 제공되는 데이터를 기반으로 개발되었습니다.
 [![Email](https://img.shields.io/badge/Email-bomlang4211%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bomlang4211@gmail.com)
 
 제 프로젝트와 학습 경험에 대한 자세한 내용은 각각의 프로젝트 페이지에서 확인하실 수 있습니다. 언제든지 연락 주시면 감사하겠습니다!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
